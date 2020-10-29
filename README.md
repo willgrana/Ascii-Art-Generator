@@ -1,5 +1,5 @@
-# WG-DG-MPL-Final-Project
-Our MPL project uses C++ to ask a few questions to determine the right basketball player for you.
+# Ascii Art Generator demonstrating use of multiple programming languages
+This project uses C++ to ask a few questions to determine the right basketball player for you.
 Once you have answered the questions, one of eight basketball players is selected and the
 function writes the name of an image containing their picture to a file player.txt. The C++
 code then calls a python script to display the image of the basketball player as ascii art.
